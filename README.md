@@ -76,11 +76,11 @@ This project analyzes **NBA shot locations (2004–2025)** and reports team/play
 
 **Screenshots**
 
-**Shot Zone Analysis**  
-![Shot Zone Analysis](Shot%20Frequency%20Analysis.png)
-
 **FG Analysis**  
 ![FG Analysis](FG%20Analysis.png)
+
+**Shot Zone Analysis**  
+![Shot Zone Analysis](Shot%20Frequency%20Analysis.png)
 
 ---
 
