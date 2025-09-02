@@ -82,3 +82,15 @@ This project analyzes **NBA shot locations (2004–2025)** and reports team/play
 **FG Analysis**  
 ![FG Analysis](FG%20Analysis.png)
 
+---
+
+## References
+- **Raw data (shots, 2003–04 → 2024–25):** DomSamangy. _NBA Shots 04–25_. GitHub repository.  
+  <https://github.com/DomSamangy/NBA_Shots_04_25>  
+- Transformations and summaries (SQL views) in `SQLAnalysis.sql`; exported CSVs in `data/`.  
+- Visualization: **Tableau Public** packaged workbook (`.twbx`).
+
+---
+
+
+
