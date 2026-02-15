@@ -4,7 +4,7 @@
 
 **Tools:** SQL Server (SSMS) + Tableau
 
-**Link to Dashboards:** You can access the dashboard for field goal (FG) analysis [here](https://github.com/buncha29b1/nba-shot-fingerprints-2004-2025/blob/main/FG%20Analysis.png) and the dashboard for shot frequency analysis here.
+**Link to Dashboards:** You can access the dashboard for field goal (FG) analysis [here](https://github.com/buncha29b1/nba-shot-fingerprints-2004-2025/blob/main/FG%20Analysis.png) and the dashboard for shot frequency analysis [here](https://github.com/buncha29b1/nba-shot-fingerprints-2004-2025/blob/main/Shot%20Frequency%20Analysis.png).
 
 ---
 
